@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelApp", "TravelApp\TravelApp.csproj", "{47589CBE-74FC-41B1-9563-744A9290CFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelApp.Tests", "TravelApp.Tests\TravelApp.Tests.csproj", "{11944F7C-3E6A-4502-A955-876D8F983F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47589CBE-74FC-41B1-9563-744A9290CFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47589CBE-74FC-41B1-9563-744A9290CFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47589CBE-74FC-41B1-9563-744A9290CFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47589CBE-74FC-41B1-9563-744A9290CFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11944F7C-3E6A-4502-A955-876D8F983F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11944F7C-3E6A-4502-A955-876D8F983F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11944F7C-3E6A-4502-A955-876D8F983F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11944F7C-3E6A-4502-A955-876D8F983F57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
